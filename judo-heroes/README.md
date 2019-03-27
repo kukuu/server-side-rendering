@@ -16,7 +16,7 @@ Better overall user experience
 
 Search engine indexable
 
-Easier code maintenance - Single codebase for client and server
+Easier code maintenance, and re-usability - Single codebase for client and server
 
 Free progressive enhancements - as the DOM elements are still made available from  on page load from the server side generated JavaScript using REACT.
 
